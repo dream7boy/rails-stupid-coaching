@@ -1,0 +1,16 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+#your_form, #answer {
+  text-align: center;
+}
+
+#question {
+  margin: 10px;
+}
+
+#question_box {
+  padding: 30px;
+  border: 1px solid lightgrey;
+  background: white;
+}
